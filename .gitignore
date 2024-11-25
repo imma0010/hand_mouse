@@ -1,0 +1,15 @@
+# Virtual environment
+hand_gesture_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
